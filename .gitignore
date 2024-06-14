@@ -1,0 +1,7 @@
+**/*.ipynb*
+venv/*
+latex/*
+**/*.png
+**/*.csv
+**/*.pth
+**/*.pdf
